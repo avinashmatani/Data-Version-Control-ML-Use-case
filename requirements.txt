@@ -1,3 +1,7 @@
 pandas
 dvc
 scikit-learn
+
+## local changes
+-e .     ## to read local file file setup.py
+
