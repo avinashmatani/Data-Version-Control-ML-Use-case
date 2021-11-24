@@ -4,4 +4,6 @@ scikit-learn
 
 ## local changes
 -e .     ## to read local file file setup.py
+         ## Install src as a package
+        
 
