@@ -2,7 +2,7 @@
 ## My Git First DVC Project
 
 ## wokflow -
-<img src="others/images/simple-workflow-01@2x.png" alt="workflow" width="70%">
+![ScreenShot](https://raw.githubusercontent.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg)
 
 
 # STEPS:
