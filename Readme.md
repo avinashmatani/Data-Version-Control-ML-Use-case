@@ -1,8 +1,8 @@
 ## Reference repo:
-## My Git First DVC Project
+## My First DVC Project
 
 ## wokflow -
-![ScreenShot](https://raw.githubusercontent.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg)
+![ScreenShot](https://github.com/avinashmatani/Data-Version-Control-ML-Use-case/blob/main/simple-workflow-01%402x.png)
 
 
 # STEPS:
