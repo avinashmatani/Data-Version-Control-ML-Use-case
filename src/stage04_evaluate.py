@@ -70,6 +70,3 @@ if __name__ == '__main__':
     print(parsed_args.params)
 
     evaluate(config_path= parsed_args.config, config_params= parsed_args.params)
-
-
-
